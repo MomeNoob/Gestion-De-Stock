@@ -28,6 +28,7 @@ namespace Gestion_De_Stock
         //Checks if the user exists
         public bool IsValidUser(User user)
         {
+
             //TODO : checks the credentials against the database
             return true;
         }
